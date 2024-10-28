@@ -1,0 +1,18 @@
+# ninja log v5
+2	666	7331707132693278	CMakeFiles/untitled.dir/mainlab1.c.obj	ad447bfb17a605c0
+18	163	7330130878799299	CMakeFiles/untitled.dir/mystring.c.obj	cd912fda838fffed
+4	121	7331707567252520	CMakeFiles/untitled.dir/tests.c.obj	dbe47eb96d5b9016
+122	1057	7331707576507307	untitled.exe	18261f58bfd183db
+19	220	7330118232486418	CMakeFiles/untitled.dir/menu.c.obj	4d4ed8d6285d72c8
+2	90	7331707385640740	CMakeFiles/untitled.dir/array.c.obj	3e1757222dc2a67c
+6	227	7330118232583759	CMakeFiles/untitled.dir/number.c.obj	965f7541c5d84336
+0	214	7338506586027027	build.ninja	7e2fdf1e8c33e6c4
+23	169	7330130878873284	CMakeFiles/untitled.dir/field_Info.c.obj	48fb1f556fa618b2
+22	211	7338506680702968	CMakeFiles/untitled.dir/menu.c.obj	10082e2da4de7ea4
+33	242	7338506681065378	CMakeFiles/untitled.dir/mystring.c.obj	f3b16816857ab176
+14	264	7338506681275375	CMakeFiles/untitled.dir/mainlab1.c.obj	52de4a8f8ab9a247
+43	290	7338506681385360	CMakeFiles/untitled.dir/tests.c.obj	b2fa6daa18e0cceb
+3	290	7338506681395361	CMakeFiles/untitled.dir/array.c.obj	9dcd1abfbc3627bd
+51	291	7338506681496843	CMakeFiles/untitled.dir/number.c.obj	7641073b8ed25c75
+59	291	7338506681556843	CMakeFiles/untitled.dir/field_Info.c.obj	5e317f0512ab216f
+292	482	7338506683426431	untitled.exe	18261f58bfd183db
